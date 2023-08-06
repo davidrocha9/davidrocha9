@@ -2,7 +2,7 @@
 
 💻 MSc in Informatics and Computing Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
 
-🌐 Check out my website: [davidrocha9.github.io](davidrocha9.github.io)
+🌐 Check out my website! [davidrocha9.github.io](https://davidrocha9.github.io)
 
 📈 My GitHub Stats: 
 
