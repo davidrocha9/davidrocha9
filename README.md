@@ -1,6 +1,6 @@
 ### Hi there, I'm David Rocha 👋
 
-💻 Currently working as a Junior Mobile Developer @[BeYourBest](https://beyourbest.com)
+💻 Currently working as a Junior Mobile Developer @[BeYourBest™](https://beyourbest.com)
 
 🎓 MSc in Informatics and Computing Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
 
